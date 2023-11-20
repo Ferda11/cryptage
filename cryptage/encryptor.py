@@ -29,11 +29,6 @@ class cryptageTexte:
                 cryptage_text += mot
         return cryptage_text
 
-    ''''def main(self):
-        chiffrer=input("Entrer un mot:")
-        text_chiffer=self.cryptage(chiffrer)
-        print(f"Le texte chiffre est:{text_chiffer}")'''
-    
     
 
     
